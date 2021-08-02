@@ -11,7 +11,7 @@ from Elizabeth.modules.sql import warns_sql as warnssql
 import Elizabeth.modules.sql.blacklist_sql as blacklistsql
 
 from Elizabeth.modules.sql import cust_filters_sql as filtersql
-import Elizabeth.modules.sql.welcome_sql as welcsql
+ 
 import Elizabeth.modules.sql.locks_sql as locksql
 import Elizabeth.modules.sql.notes_sql as sql
 
