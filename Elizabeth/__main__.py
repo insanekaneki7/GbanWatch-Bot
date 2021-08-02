@@ -43,7 +43,9 @@ PM_START_TEXT = f"""
 `I'm`  GBANWATCH BOT 
 `a bot for federation actions connected to huge number of groups check out the below buttons for more info ..`
 """
-
+buttons = [[InlineKeyboardButton(text="ADMIN COMMANDS AND BAN CODES",
+                                  url="https://telegra.ph/UNT%E5%B7%9C%F0%9D%90%87%CE%A3%F0%9D%90%80%F0%9D%90%83%F0%9D%90%8C%F0%9D%90%80%F0%9D%95%8A%F0%9D%90%93%F0%9D%90%84%F0%9D%90%91-tnyet%C4%B1t%CE%B1%CE%B7s%CE%B7yet%CF%89%CF%83yaks-08-02"),
+]]
 buttons = [[InlineKeyboardButton(text=" MY HOME",
                                   url="https://t.me/SPAMREPORTERR"),
 ]]
@@ -61,9 +63,7 @@ buttons += [[InlineKeyboardButton(text="GBANWATCH CHAT",
 buttons += [[InlineKeyboardButton(text="ABOUT GBANWATCH",
                                   url="https://t.me/MLO_NETWORK/14")]]
 
-buttons = [[InlineKeyboardButton(text="ADMIN COMMANDS AND BAN CODES",
-                                  url="https://telegra.ph/UNT%E5%B7%9C%F0%9D%90%87%CE%A3%F0%9D%90%80%F0%9D%90%83%F0%9D%90%8C%F0%9D%90%80%F0%9D%95%8A%F0%9D%90%93%F0%9D%90%84%F0%9D%90%91-tnyet%C4%B1t%CE%B1%CE%B7s%CE%B7yet%CF%89%CF%83yaks-08-02"),
-]]
+ 
  
 HELP_STRINGS = f"""
 `its GBANWATCH bot
