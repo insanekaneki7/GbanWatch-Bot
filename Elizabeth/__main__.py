@@ -39,7 +39,7 @@ from Elizabeth.modules.helper_funcs.alternate import typing_action
 
 
 PM_START_TEXT = f"""
-`WELCOME..BUDDY` [🔥](https://telegra.ph/file/1ff6ae577c5a3bb1dc2b1.jpg)  
+`WELCOME..BUDDY` [🔥](https://telegra.ph/file/63ab4bf938b4469e994e9.jpg)  
 `I'm`  GBANWATCH BOT 
 `a bot for GLOBAL BAN WATCH SYSTEM GO TO THE BELOW BUTTONS FOR MORE INFO ..`
 """
