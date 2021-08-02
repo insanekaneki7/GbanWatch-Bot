@@ -39,30 +39,34 @@ from Elizabeth.modules.helper_funcs.alternate import typing_action
 
 
 PM_START_TEXT = f"""
-`Hi..Welcome` [🔥](https://telegra.ph/file/297476c0d91e6db025540.jpg)  
-`I'm`  UNT FED BOT
+`WELCOME..BUDDY` [🔥](https://telegra.ph/file/9148a7e440af37ec0a2cd.jpg)  
+`I'm`  GBANWATCH BOT 
 `a bot for federation actions connected to huge number of groups check out the below buttons for more info ..`
 """
 
-buttons = [[InlineKeyboardButton(text=" ABOUT UNT BOT 🇮🇳",
-                                  url="https://t.me/THE_UNT"),
+buttons = [[InlineKeyboardButton(text=" MY HOME",
+                                  url="https://t.me/SPAMREPORTERR"),
 ]]
 
-buttons += [[InlineKeyboardButton(text="ADD ME TO YOUR CHATS ",
-                                  url="t.me/UNTFEDBOT?startgroup=true"),
+buttons += [[InlineKeyboardButton(text="ADD ME AS GUARD TO GROUP ",
+                                  url="t.me/GBAN_WATCH_BOT?startgroup=true"),
 ]]
 
-buttons += [[InlineKeyboardButton(text="SOURCE CODE OR REPO",
-                                  url="https://t.me/PYTHONPIRATES/41"),
-             InlineKeyboardButton(text="SUPPORT🌳",
-                                  url="https://t.me/untchats"),
+buttons += [[InlineKeyboardButton(text="GBANWATCH CHAT",
+                                  url="https://t.me/GBANWATCH"),
+             InlineKeyboardButton(text="GBANWATCH LOGS",
+                                  url="https://t.me/GBANWATCH_LOG"),
 ]]
 
-buttons += [[InlineKeyboardButton(text="ABOUT UNT FED",
-                                  url="https://t.me/UNTFED")]]
+buttons += [[InlineKeyboardButton(text="ABOUT GBANWATCH",
+                                  url="https://t.me/MLO_NETWORK/14")]]
+
+buttons = [[InlineKeyboardButton(text="ADMIN COMMANDS AND BAN CODES",
+                                  url="https://telegra.ph/UNT%E5%B7%9C%F0%9D%90%87%CE%A3%F0%9D%90%80%F0%9D%90%83%F0%9D%90%8C%F0%9D%90%80%F0%9D%95%8A%F0%9D%90%93%F0%9D%90%84%F0%9D%90%91-tnyet%C4%B1t%CE%B1%CE%B7s%CE%B7yet%CF%89%CF%83yaks-08-02"),
+]]
  
 HELP_STRINGS = f"""
-`its unt fed bot
+`its GBANWATCH bot
 `Click on the buttons below to get documentation about specific modules..`"""
 
 
