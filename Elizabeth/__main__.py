@@ -41,7 +41,7 @@ from Elizabeth.modules.helper_funcs.alternate import typing_action
 PM_START_TEXT = f"""
 `WELCOME..BUDDY` [🔥](https://telegra.ph/file/1ff6ae577c5a3bb1dc2b1.jpg)  
 `I'm`  GBANWATCH BOT 
-`a bot for federation actions connected to huge number of groups check out the below buttons for more info ..`
+`a bot for GLOBAL BAN WATCH SYSTEM GO TO THE BELOW BUTTONS FOR MORE INFO ..`
 """
 buttons = [[InlineKeyboardButton(text="ADMIN COMMANDS AND BAN CODES",
                                   url="https://telegra.ph/UNT%E5%B7%9C%F0%9D%90%87%CE%A3%F0%9D%90%80%F0%9D%90%83%F0%9D%90%8C%F0%9D%90%80%F0%9D%95%8A%F0%9D%90%93%F0%9D%90%84%F0%9D%90%91-tnyet%C4%B1t%CE%B1%CE%B7s%CE%B7yet%CF%89%CF%83yaks-08-02"),
